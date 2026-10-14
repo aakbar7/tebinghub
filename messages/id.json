@@ -1,0 +1,81 @@
+{
+	"HomePage": {
+		"eyebrow": "Tebing Tinggi, Sumatera Utara",
+		"title": "Layak Disinggahi, Bukan Cuma Dilewati",
+		"description": "Panduan kota yang mengajakmu berhenti sejenak, menemukan cerita, dan merasakan arus Tebing Tinggi.",
+		"primaryCta": "Jelajahi kota",
+		"secondaryCta": "Lihat peta"
+	},
+	"Metadata": {
+		"title": "tebinghub.id — Layak Disinggahi, Bukan Cuma Dilewati",
+		"description": "Cinema-first city guide untuk menemukan Tebing Tinggi dengan ritme yang lebih manusiawi.",
+		"siteName": "tebinghub.id"
+	},
+	"Nav": {
+		"home": "Beranda",
+		"map": "Atlas",
+		"culture": "Budaya",
+		"food": "Kuliner",
+		"travel": "Wisata",
+		"history": "Sejarah",
+		"technology": "Teknologi",
+		"figures": "Tokoh",
+		"plans": "Rencana",
+		"sources": "Sumber",
+		"about": "Tentang",
+		"menu": "Menu",
+		"guide": "Panduan persinggahan",
+		"chooseDirection": "Pilih arahmu",
+		"menuTitle": "Masuk lebih dalam ke arus kota.",
+		"menuIntro": "Delapan arah untuk menemukan cerita, rasa, tempat, dan ritme Tebing Tinggi.",
+		"menuOpen": "Buka navigasi",
+		"menuClose": "Tutup navigasi",
+		"primaryLabel": "Navigasi utama"
+	},
+	"Footer": {
+		"tagline": "Kota yang layak disinggahi.",
+		"source": "Sumber dan catatan"
+	},
+	"Routes": {
+		"map": {
+			"title": "Peta kota",
+			"description": "Atlas tempat, rute singgah, dan cerita Tebing Tinggi."
+		},
+		"culture": {
+			"title": "Budaya hidup",
+			"description": "Ruang, motif, dan cerita yang membuat kota ini terus bergerak."
+		},
+		"food": {
+			"title": "Kota lemang & kuliner",
+			"description": "Rasa yang mengajakmu berhenti lebih lama."
+		},
+		"travel": {
+			"title": "Wisata di dalam dan sekitar kota",
+			"description": "Rute in-city dan day-trip yang dibedakan dengan jelas."
+		},
+		"history": {
+			"title": "Sejarah yang hidup",
+			"description": "Membaca jejak kota dengan hormat, termasuk ruang yang sudah berubah."
+		},
+		"technology": {
+			"title": "Kota modern",
+			"description": "Layanan publik dan wajah kota yang terus diperbarui."
+		},
+		"figures": {
+			"title": "Made in Tebing Tinggi",
+			"description": "Prestasi yang tumbuh dari kota ini, dengan klaim yang hati-hati."
+		},
+		"plans": {
+			"title": "Rencana singgah",
+			"description": "Susun ritme perjalananmu—dua jam, setengah hari, atau sehari."
+		},
+		"sources": {
+			"title": "Sumber dan catatan",
+			"description": "Jejak verifikasi untuk klaim, data, dan aset yang dipakai situs ini."
+		},
+		"about": {
+			"title": "Tentang TebingHub",
+			"description": "Panduan kota independen untuk melihat Tebing Tinggi dengan lebih dekat."
+		}
+	}
+}

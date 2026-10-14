@@ -1,0 +1,81 @@
+{
+	"HomePage": {
+		"eyebrow": "Tebing Tinggi, North Sumatra",
+		"title": "Worth Stopping For, Not Just Passing Through",
+		"description": "A city guide that invites you to slow down, find the stories, and feel Tebing Tinggi's current.",
+		"primaryCta": "Explore the city",
+		"secondaryCta": "Open the map"
+	},
+	"Metadata": {
+		"title": "tebinghub.id — Worth Stopping For, Not Just Passing Through",
+		"description": "A cinema-first city guide for discovering Tebing Tinggi at a more human pace.",
+		"siteName": "tebinghub.id"
+	},
+	"Nav": {
+		"home": "Home",
+		"map": "Atlas",
+		"culture": "Culture",
+		"food": "Food",
+		"travel": "Travel",
+		"history": "History",
+		"technology": "Modern",
+		"figures": "People",
+		"plans": "Plans",
+		"sources": "Sources",
+		"about": "About",
+		"menu": "Menu",
+		"guide": "A stopover city guide",
+		"chooseDirection": "Choose your direction",
+		"menuTitle": "Go deeper into the city's current.",
+		"menuIntro": "Eight directions into the stories, flavours, places, and pace of Tebing Tinggi.",
+		"menuOpen": "Open navigation",
+		"menuClose": "Close navigation",
+		"primaryLabel": "Primary navigation"
+	},
+	"Footer": {
+		"tagline": "A city worth stopping for.",
+		"source": "Sources and notes"
+	},
+	"Routes": {
+		"map": {
+			"title": "City map",
+			"description": "An atlas of places, stopover routes, and Tebing Tinggi stories."
+		},
+		"culture": {
+			"title": "Living culture",
+			"description": "Spaces, motifs, and stories that keep the city moving."
+		},
+		"food": {
+			"title": "Lemang & food city",
+			"description": "Flavours that invite you to stay a little longer."
+		},
+		"travel": {
+			"title": "Travel in and around the city",
+			"description": "In-city routes and day trips kept clearly separate."
+		},
+		"history": {
+			"title": "A living history",
+			"description": "Reading the city's traces with care, including spaces that have changed."
+		},
+		"technology": {
+			"title": "Modern city",
+			"description": "Public services and a city face that keeps being renewed."
+		},
+		"figures": {
+			"title": "Made in Tebing Tinggi",
+			"description": "Achievements grown from this city, with careful claims."
+		},
+		"plans": {
+			"title": "Your stopover plan",
+			"description": "Set your travel rhythm—two hours, half a day, or a full day."
+		},
+		"sources": {
+			"title": "Sources and notes",
+			"description": "Verification trails for the claims, data, and assets used on this site."
+		},
+		"about": {
+			"title": "About TebingHub",
+			"description": "An independent city guide for seeing Tebing Tinggi up close."
+		}
+	}
+}

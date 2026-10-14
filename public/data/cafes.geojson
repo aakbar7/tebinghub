@@ -1,0 +1,1198 @@
+{
+  "type": "FeatureCollection",
+  "summary": {
+    "total": 54,
+    "verified": 52,
+    "reviewNeeded": 2
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1704646,
+          3.3237188
+        ]
+      },
+      "properties": {
+        "id": "cafe-goodfella-tebing-tinggi-01",
+        "name": "Goodfella Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Ahmad Bilal, Damar Sari, Kec. Padang Hilir, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "09.00-23.00",
+        "rating": 4.3,
+        "reviewsCount": 219,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Goodfella+Tebing+Tinggi/data=!4m7!3m6!1s0x303161540acfd28f:0x4ac2080da22c2820!8m2!3d3.3237188!4d99.1704646!16s%2Fg%2F11p5_wgsfk!19sChIJj9LPClRhMTARICgsog0Iwko?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1670303,
+          3.3539135
+        ]
+      },
+      "properties": {
+        "id": "cafe-point-coffee-02",
+        "name": "Point Coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Gn. Bakti Lkmd I No.5, Tj. Marulak Hilir, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "07.00-22.00",
+        "rating": 4.4,
+        "reviewsCount": 112,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Point+Coffee/data=!4m7!3m6!1s0x303161b4a7a2e4ab:0x1a3cffdb53128df8!8m2!3d3.3539135!4d99.1670303!16s%2Fg%2F11hmzcp5f0!19sChIJq-Sip7RhMTAR-I0SU9v_PBo?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1595377,
+          3.326272
+        ]
+      },
+      "properties": {
+        "id": "cafe-kopi-kenangan-ruko-mh-thamrin-tebing-tinggi-medan-03",
+        "name": "Kopi Kenangan - Ruko MH Thamrin Tebing Tinggi Medan",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. M.H. Thamrin No.59, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20614",
+        "hours": "07.00-22.00",
+        "rating": 4.2,
+        "reviewsCount": 94,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kopi+Kenangan+-+Ruko+MH+Thamrin+Tebing+Tinggi+Medan/data=!4m7!3m6!1s0x303161b2da1fb195:0x7155c8087ac0c666!8m2!3d3.326272!4d99.1595377!16s%2Fg%2F11vybb3lz5!19sChIJlbEf2rJhMTARZsbAegjIVXE?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1627908,
+          3.3213269
+        ]
+      },
+      "properties": {
+        "id": "cafe-crystal-cafe-resto-04",
+        "name": "Crystal Cafe & Resto",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Diponegoro, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "07.30-23.30",
+        "rating": 3.9,
+        "reviewsCount": 83,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Crystal+Cafe+%26+Resto/data=!4m7!3m6!1s0x303129553a7fb435:0x1c6e51bfa22fea56!8m2!3d3.3213269!4d99.1627908!16s%2Fg%2F11y64gxg5_!19sChIJNbR_OlUpMTARVuovor9Rbhw?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1625258,
+          3.3292013
+        ]
+      },
+      "properties": {
+        "id": "cafe-liflig-coffee-05",
+        "name": "LifLig coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Veteran No.28, Tebing Tinggi Lama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20616",
+        "hours": "09.00-19.00",
+        "rating": 4.7,
+        "reviewsCount": 64,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/LifLig+coffee/data=!4m7!3m6!1s0x303161332203068b:0x9fd4a5a87328abce!8m2!3d3.3292013!4d99.1625258!16s%2Fg%2F11j01hfbff!19sChIJiwYDIjNhMTARzqsoc6il1J8?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1437401,
+          3.3316888
+        ]
+      },
+      "properties": {
+        "id": "cafe-day-06",
+        "name": "DAY",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Prof. Dr. Hamka, Bulian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara",
+        "hours": "09.00-00.00",
+        "rating": 4.5,
+        "reviewsCount": 63,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/DAY/data=!4m7!3m6!1s0x303161a9502a670d:0x59d05ae965540a31!8m2!3d3.3316888!4d99.1437401!16s%2Fg%2F11sd_tvxgs!19sChIJDWcqUKlhMTARMQpUZela0Fk?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1622764,
+          3.3278774
+        ]
+      },
+      "properties": {
+        "id": "cafe-kedai-kopi-aghara-07",
+        "name": "Kedai kopi Aghara",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85H6+5W7, Jl. Veteran No.8, Tebing Tinggi Lama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20616",
+        "hours": "08.00-23.00",
+        "rating": 4.8,
+        "reviewsCount": 61,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kedai+kopi+Aghara/data=!4m7!3m6!1s0x30316198aec7e467:0x4a4d86eba0321!8m2!3d3.3278774!4d99.1622764!16s%2Fg%2F11rfr4yj5y!19sChIJZ-THrphhMTARIQO6btikBAA?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1600776,
+          3.3291348
+        ]
+      },
+      "properties": {
+        "id": "cafe-hidose-coffee-08",
+        "name": "Hidose Coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Let. Jend. Suprapto No.124, Ps. Baru, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20627",
+        "hours": "08.00-23.00",
+        "rating": 4.6,
+        "reviewsCount": 44,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Hidose+Coffee/data=!4m7!3m6!1s0x303161f8e442230b:0x4f8225bf28f8edbe!8m2!3d3.3291348!4d99.1600776!16s%2Fg%2F11rhhqdj3l!19sChIJCyNC5PhhMTARvu34KL8lgk8?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1653224,
+          3.3243186
+        ]
+      },
+      "properties": {
+        "id": "cafe-skuy-coffee-tebing-tinggi-09",
+        "name": "skuy coffee, Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Mayjend. D.I. Panjaitan No.43, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "09.00-02.00",
+        "rating": 4.8,
+        "reviewsCount": 27,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/skuy+coffee,+Tebing+Tinggi/data=!4m7!3m6!1s0x3031612c94b3cb0b:0x5048cae3a32d220d!8m2!3d3.3243186!4d99.1653224!16s%2Fg%2F11nx1vjdg3!19sChIJC8uzlCxhMTARDSIto-PKSFA?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.157605,
+          3.3233343
+        ]
+      },
+      "properties": {
+        "id": "cafe-kopi-petik-tebing-tinggi-10",
+        "name": "Kopi Petik, Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. M.H. Thamrin No.82a, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20614",
+        "hours": "09.00-22.00",
+        "rating": 4.4,
+        "reviewsCount": 13,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kopi+Petik,+Tebing+Tinggi/data=!4m7!3m6!1s0x30316100192ffb91:0x931360ac1667bd4c!8m2!3d3.3233343!4d99.157605!16s%2Fg%2F11ms7jsb9k!19sChIJkfsvGQBhMTARTL1nFqxgE5M?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1651266,
+          3.3212201
+        ]
+      },
+      "properties": {
+        "id": "cafe-coffeeshop-rasio-seduh-11",
+        "name": "Coffeeshop Rasio Seduh",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Diponegoro, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "08.00-01.15",
+        "rating": 4.9,
+        "reviewsCount": 11,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Coffeeshop+Rasio+Seduh/data=!4m7!3m6!1s0x30316100648a9b07:0x763f6795493360b2!8m2!3d3.3212201!4d99.1651266!16s%2Fg%2F11x1ghqs14!19sChIJB5uKZABhMTARsmAzSZVnP3Y?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1490577,
+          3.3168095
+        ]
+      },
+      "properties": {
+        "id": "cafe-warung-kopi-kopikirlanda-12",
+        "name": "Warung Kopi ( KOPIKIRLANDA )",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pulau Sumatera No.lk 02, Tualang, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20624",
+        "hours": "10.00-00.00",
+        "rating": 5,
+        "reviewsCount": 7,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Warung+Kopi+(+KOPIKIRLANDA+)/data=!4m7!3m6!1s0x303161451a069769:0xc01ddbfb99ae16f5!8m2!3d3.3168095!4d99.1490577!16s%2Fg%2F11y73n0ljm!19sChIJaZcGGkVhMTAR9RaumfvbHcA?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1563827,
+          3.3203426
+        ]
+      },
+      "properties": {
+        "id": "cafe-deli-coffee-pastry-13",
+        "name": "Deli Coffee & Pastry",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "komplek citra harapan, Bandar Sono, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "09.00-23.00",
+        "rating": 4.6,
+        "reviewsCount": 5,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Deli+Coffee+%26+Pastry/data=!4m7!3m6!1s0x3031610064d28c5f:0xc2d8afbef39ad080!8m2!3d3.3203426!4d99.1563827!16s%2Fg%2F11y_b01vfy!19sChIJX4zSZABhMTARgNCa876v2MI?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1572905,
+          3.3272555
+        ]
+      },
+      "properties": {
+        "id": "cafe-kosong-14",
+        "name": "Kosong",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Simpang rumah sakit umum, Jl. Medan - Pematang Siantar Jl. DR. Kumpulan Pane No.41, Ps. Baru, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20627",
+        "hours": "09.00-23.30",
+        "rating": 4.2,
+        "reviewsCount": 5,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kosong/data=!4m7!3m6!1s0x303161e8c919d5a9:0x2136aef545e7f0d1!8m2!3d3.3272555!4d99.1572905!16s%2Fg%2F11l6wg73c5!19sChIJqdUZyehhMTAR0fDnRfWuNiE?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1310898,
+          3.3031426
+        ]
+      },
+      "properties": {
+        "id": "cafe-starley-chocolate-15",
+        "name": "Starley Chocolate",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Gatot Subroto No.km 4, Pabatu, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20623",
+        "hours": "10.00-22.00",
+        "rating": 5,
+        "reviewsCount": 1,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Starley+Chocolate/data=!4m7!3m6!1s0x3031617d86d93c9b:0x37feced4477f1ba7!8m2!3d3.3031426!4d99.1310898!16s%2Fg%2F11yc51qyg7!19sChIJmzzZhn1hMTARpxt_R9TO_jc?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1623091,
+          3.3249142
+        ]
+      },
+      "properties": {
+        "id": "cafe-vnine-coffee-house-16",
+        "name": "Vnine Coffee House",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pahlawan, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20633",
+        "hours": "09.00-22.00",
+        "rating": null,
+        "reviewsCount": 0,
+        "status": "review-needed",
+        "mapsUrl": "https://www.google.com/maps/place/Vnine+Coffee+House/data=!4m7!3m6!1s0x303161eca139c07f:0xccb71adb779b18e5!8m2!3d3.3249142!4d99.1623091!16s%2Fg%2F11kbz39tdc!19sChIJf8A5oexhMTAR5Ribd9sat8w?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1633281,
+          3.3277125
+        ]
+      },
+      "properties": {
+        "id": "cafe-kedai-kopang-17",
+        "name": "Kedai Kopang",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85H7+38P, Tebing Tinggi Lama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20633",
+        "hours": "08.00-23.30",
+        "rating": 4.2,
+        "reviewsCount": 459,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kedai+Kopang/data=!4m7!3m6!1s0x303161b73eba3f51:0x804c1aaba7237cc3!8m2!3d3.3277125!4d99.1633281!16s%2Fg%2F11f5bprfnq!19sChIJUT-6PrdhMTARw3wjp6saTIA?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1610058,
+          3.3287512
+        ]
+      },
+      "properties": {
+        "id": "cafe-kedai-kopi-bali-aie-galak-banget-18",
+        "name": "Kedai Kopi Bali (Aie Galak Banget)",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85H6+GC2, Jl. Let. Jend. Suprapto, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20616",
+        "hours": "08.30-15.00",
+        "rating": 4.1,
+        "reviewsCount": 459,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kedai+Kopi+Bali+(Aie+Galak+Banget)/data=!4m7!3m6!1s0x303161b0dfc13285:0xf72afd1a8af52bcd!8m2!3d3.3287512!4d99.1610058!16s%2Fg%2F1hm545y7t!19sChIJhTLB37BhMTARzSv1ihr9Kvc?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1661113,
+          3.3443302
+        ]
+      },
+      "properties": {
+        "id": "cafe-kopi-dolok-19",
+        "name": "Kopi Dolok",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Medan - Tebing Tinggi, Tj. Marulak Hilir, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "07.30-22.30",
+        "rating": 4.4,
+        "reviewsCount": 351,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kopi+Dolok/data=!4m7!3m6!1s0x303161d8be2d0727:0x71009927017fdd5a!8m2!3d3.3443302!4d99.1661113!16s%2Fg%2F11gxskl_6t!19sChIJJwctvthhMTARWt1_ASeZAHE?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.161884,
+          3.3218421
+        ]
+      },
+      "properties": {
+        "id": "cafe-kawan-kofie-20",
+        "name": "Kawan Kofie",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Diponegoro, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20774",
+        "hours": "10.00-23.00",
+        "rating": 4.6,
+        "reviewsCount": 337,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kawan+Kofie/data=!4m7!3m6!1s0x303161c6462c39dd:0x4ad528791549bb32!8m2!3d3.3218421!4d99.161884!16s%2Fg%2F11vbwvt8nt!19sChIJ3TksRsZhMTARMrtJFXko1Uo?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1573999,
+          3.3225583
+        ]
+      },
+      "properties": {
+        "id": "cafe-cafe-corner-thamrin-tebing-tinggi-21",
+        "name": "Cafe Corner Thamrin Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. M.H. Thamrin No.149, Bandar Sono, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "09.00-23.30",
+        "rating": 4.1,
+        "reviewsCount": 257,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Cafe+Corner+Thamrin+Tebing+Tinggi/data=!4m7!3m6!1s0x30316120515d1f7d:0x24587525ea22ac79!8m2!3d3.3225583!4d99.1573999!16s%2Fg%2F11splp6p48!19sChIJfR9dUSBhMTAReawi6iV1WCQ?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1548207,
+          3.3264534
+        ]
+      },
+      "properties": {
+        "id": "cafe-waroeng-nongkrong-22",
+        "name": "Waroeng Nongkrong",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Komplek Nus, Jl. Ahmad Yani, Deli Indah, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20621",
+        "hours": "11.00-23.00",
+        "rating": 4.4,
+        "reviewsCount": 37,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Waroeng+Nongkrong/data=!4m7!3m6!1s0x303161fe9aa5c07f:0x79688554b1bdc126!8m2!3d3.3264534!4d99.1548207!16s%2Fg%2F11kklklgcx!19sChIJf8Clmv5hMTARJsG9sVSFaHk?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.154581,
+          3.3275843
+        ]
+      },
+      "properties": {
+        "id": "cafe-wolfgang-coffee-23",
+        "name": "Wolfgang.Coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. DR. Kumpulan Pane, Durian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 12740",
+        "hours": "09.30-23.00",
+        "rating": 4,
+        "reviewsCount": 150,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Wolfgang.Coffee/data=!4m7!3m6!1s0x30316134cd5ceb0d:0xcee7fab4fa7988be!8m2!3d3.3275843!4d99.154581!16s%2Fg%2F11nrqjjw8b!19sChIJDetczTRhMTARvoh5-rT6584?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1688965,
+          3.3465279
+        ]
+      },
+      "properties": {
+        "id": "cafe-experience-cafe-and-resto-24",
+        "name": "Experience Cafe And Resto",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85W9+JH6, Jalan Prof. Dr Jl. Prof. H. M Yamin, Tj. Marulak Hilir, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "10.00-23.00",
+        "rating": 4.6,
+        "reviewsCount": 127,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Experience+Cafe+And+Resto/data=!4m7!3m6!1s0x30316038190d2c1d:0xac39bcb7844c39e!8m2!3d3.3465279!4d99.1688965!16s%2Fg%2F11c0x8yhgd!19sChIJHSwNGThgMTARnsNEeMubwwo?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1658063,
+          3.3455362
+        ]
+      },
+      "properties": {
+        "id": "cafe-el-coffee-25",
+        "name": "EL COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Yos Sudarso No.5b, Lalang, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "10.00-22.00",
+        "rating": 4.6,
+        "reviewsCount": 94,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/EL+COFFEE/data=!4m7!3m6!1s0x3031612caf370d45:0xede81f704bafbb63!8m2!3d3.3455362!4d99.1658063!16s%2Fg%2F11l694wg2l!19sChIJRQ03ryxhMTARY7uvS3Af6O0?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1553587,
+          3.3315058
+        ]
+      },
+      "properties": {
+        "id": "cafe-kafe-kita-26",
+        "name": "Kafe Kita",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Kapten F Tandean No.241, Bandar Sakti, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "11.00-23.00",
+        "rating": 4.5,
+        "reviewsCount": 80,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kafe+Kita/data=!4m7!3m6!1s0x303161250ee87a99:0x23fa24dd59f8e87c!8m2!3d3.3315058!4d99.1553587!16s%2Fg%2F11mn80_8fd!19sChIJmXroDiVhMTARfOj4Wd0k-iM?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1620727,
+          3.3274452
+        ]
+      },
+      "properties": {
+        "id": "cafe-sippin-27",
+        "name": "SIPPIN",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pahlawan No.2f, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "10.00-22.00",
+        "rating": 4.3,
+        "reviewsCount": 74,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/SIPPIN/data=!4m7!3m6!1s0x3031613112e30a91:0x44ec50d81dfad27f!8m2!3d3.3274452!4d99.1620727!16s%2Fg%2F11p5zwlyhp!19sChIJkQrjEjFhMTARf9L6HdhQ7EQ?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1505508,
+          3.3257107
+        ]
+      },
+      "properties": {
+        "id": "cafe-arch-coffee-roastery-28",
+        "name": "Arch Coffee Roastery",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Gg. Mdr, Durian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20611",
+        "hours": "15.00-23.00",
+        "rating": 3.6,
+        "reviewsCount": 72,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Arch+Coffee+Roastery/data=!4m7!3m6!1s0x303161a60d897c99:0xe076cd23befcf376!8m2!3d3.3257107!4d99.1505508!16s%2Fg%2F11cr_7q7xk!19sChIJmXyJDaZhMTARdvP8viPNduA?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1622201,
+          3.3265882
+        ]
+      },
+      "properties": {
+        "id": "cafe-golden-cafe-29",
+        "name": "Golden Cafe",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pahlawan No.8, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20616",
+        "hours": "07.00-21.00",
+        "rating": 4.4,
+        "reviewsCount": 69,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Golden+Cafe/data=!4m7!3m6!1s0x303161b755399101:0xd79427e3edee22fb!8m2!3d3.3265882!4d99.1622201!16s%2Fg%2F11hbfh70bs!19sChIJAZE5VbdhMTAR-yLu7eMnlNc?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1538407,
+          3.3321599
+        ]
+      },
+      "properties": {
+        "id": "cafe-forgee-co-30",
+        "name": "Forgee.co",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Kapten F Tandean, Bandar Sakti, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20613",
+        "hours": null,
+        "rating": 4.2,
+        "reviewsCount": 67,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Forgee.co/data=!4m7!3m6!1s0x3031611c4378d3bf:0xc85e60ed2f5e3ed0!8m2!3d3.3321599!4d99.1538407!16s%2Fg%2F11xt2d4jg_!19sChIJv9N4QxxhMTAR0D5eL-1gXsg?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1342449,
+          3.3058989
+        ]
+      },
+      "properties": {
+        "id": "cafe-waroeng-vegas-31",
+        "name": "Waroeng Vegas",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Medan - Pematang Siantar No.69, Lubuk Baru, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20621",
+        "hours": "Buka 24 jam",
+        "rating": 4.4,
+        "reviewsCount": 52,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Waroeng+Vegas/data=!4m7!3m6!1s0x303161654fa1e169:0x43531f7038643533!8m2!3d3.3058989!4d99.1342449!16s%2Fg%2F11ghq3nx7q!19sChIJaeGhT2VhMTARMzVkOHAfU0M?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1640479,
+          3.3512907
+        ]
+      },
+      "properties": {
+        "id": "cafe-zai-coffee-32",
+        "name": "ZAI COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Gn. Leuser, Tj. Marulak, Kec. Rambutan, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "09.00-22.00",
+        "rating": 4.7,
+        "reviewsCount": 40,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/ZAI+COFFEE/data=!4m7!3m6!1s0x303161b32fa17d57:0xfb26fe218ef605a0!8m2!3d3.3512907!4d99.1640479!16s%2Fg%2F11t7zhrd7l!19sChIJV32hL7NhMTARoAX2jiH-Jvs?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1686614,
+          3.329402
+        ]
+      },
+      "properties": {
+        "id": "cafe-tomoro-coffee-tebing-tinggi-33",
+        "name": "TOMORO COFFEE - Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Imam Bonjol Samping SMPN 2, Tebing Tinggi Lama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "08.00-22.00",
+        "rating": 4.6,
+        "reviewsCount": 20,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/TOMORO+COFFEE+-+Tebing+Tinggi/data=!4m7!3m6!1s0x303161001fb2f001:0xa7888259dc385e13!8m2!3d3.329402!4d99.1686614!16s%2Fg%2F11xrf6n_57!19sChIJAfCyHwBhMTARE1443FmCiKc?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1489895,
+          3.3258669
+        ]
+      },
+      "properties": {
+        "id": "cafe-exceed-coffee-34",
+        "name": "Exceed coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Prof. Dr. Hamka No.54, Durian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20611",
+        "hours": "10.00-00.00",
+        "rating": 4.8,
+        "reviewsCount": 17,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Exceed+coffee/data=!4m7!3m6!1s0x303161d2a472c407:0x456915bd9a37b61e!8m2!3d3.3258669!4d99.1489895!16s%2Fg%2F11j_n_741_!19sChIJB8RypNJhMTARHrY3mr0VaUU?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1584493,
+          3.3281299
+        ]
+      },
+      "properties": {
+        "id": "cafe-the-ninty-five-35",
+        "name": "The Ninty Five",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85H5+794, Ps. Baru, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara",
+        "hours": "08.00-00.00",
+        "rating": 4.5,
+        "reviewsCount": 15,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/The+Ninty+Five/data=!4m7!3m6!1s0x303161002e4a6ebd:0xe15db63db1752158!8m2!3d3.3281299!4d99.1584493!16s%2Fg%2F11wv_t6f7n!19sChIJvW5KLgBhMTARWCF1sT22XeE?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.137628,
+          3.3107574
+        ]
+      },
+      "properties": {
+        "id": "cafe-sarapan-pagi-km-3-tebing-tinggi-36",
+        "name": "SARAPAN PAGI KM-3 Tebing Tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Gatot Subroto No.KM-3, Lubuk Baru, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara",
+        "hours": "06.00-12.00",
+        "rating": 4.4,
+        "reviewsCount": 13,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/SARAPAN+PAGI+KM-3+Tebing+Tinggi/data=!4m7!3m6!1s0x303161006709cf39:0xa8714003b54df42e!8m2!3d3.3107574!4d99.137628!16s%2Fg%2F11w1kf1h5r!19sChIJOc8JZwBhMTARLvRNtQNAcag?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.167607,
+          3.325484
+        ]
+      },
+      "properties": {
+        "id": "cafe-sumatera-specialty-coffee-37",
+        "name": "SUMATERA SPECIALTY COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "85G9+52X, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "08.00-23.00",
+        "rating": 4.8,
+        "reviewsCount": 12,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/SUMATERA+SPECIALTY+COFFEE/data=!4m7!3m6!1s0x3031614ccece62c3:0x94d21dc9c8ff5094!8m2!3d3.325484!4d99.167607!16s%2Fg%2F11lrtj2jvn!19sChIJw2LOzkxhMTARlFD_yMkd0pQ?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1619938,
+          3.3245065
+        ]
+      },
+      "properties": {
+        "id": "cafe-oini-tebing-tinggi-38",
+        "name": "OINI TEBING TINGGI",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pahlawan No.13, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20633",
+        "hours": "13.00-00.00",
+        "rating": 4.9,
+        "reviewsCount": 11,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/OINI+TEBING+TINGGI/data=!4m7!3m6!1s0x30316115436c9ef9:0x7da6ce1a2e618138!8m2!3d3.3245065!4d99.1619938!16s%2Fg%2F11rvh84v03!19sChIJ-Z5sQxVhMTAROIFhLhrOpn0?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1439202,
+          3.3268259
+        ]
+      },
+      "properties": {
+        "id": "cafe-coffe-teras-samping-39",
+        "name": "Coffe teras samping",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "84GV+PHM, Jl. Merbuk, Bulian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20611",
+        "hours": null,
+        "rating": 4.7,
+        "reviewsCount": 10,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Coffe+teras+samping/data=!4m7!3m6!1s0x303161125c958c05:0xf728f5fd478405f7!8m2!3d3.3268259!4d99.1439202!16s%2Fg%2F11rsbng7ym!19sChIJBYyVXBJhMTAR9wWER_31KPc?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1610534,
+          3.3189774
+        ]
+      },
+      "properties": {
+        "id": "cafe-rhino-s-coffee-eatery-40",
+        "name": "Rhino's Coffee & Eatery",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Deblod Sundoro No.18a, Ps. Gambir, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "08.00-23.00",
+        "rating": 4.9,
+        "reviewsCount": 9,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Rhino's+Coffee+%26+Eatery/data=!4m7!3m6!1s0x3031610023b986b5:0x66b90f5a78378932!8m2!3d3.3189774!4d99.1610534!16s%2Fg%2F11yx49ndjd!19sChIJtYa5IwBhMTARMok3eFoPuWY?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.145809,
+          3.328479
+        ]
+      },
+      "properties": {
+        "id": "cafe-dejavu-coffee-41",
+        "name": "DEJAVU COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Prof. Dr. Hamka No.2, Bulian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20614",
+        "hours": "09.00-00.00",
+        "rating": 4.5,
+        "reviewsCount": 8,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/DEJAVU+COFFEE/data=!4m7!3m6!1s0x3031610041da18a3:0xf40fec7182e5e390!8m2!3d3.328479!4d99.145809!16s%2Fg%2F11xt0pytzj!19sChIJoxjaQQBhMTARkOPlgnHsD_Q?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1488647,
+          3.3138702
+        ]
+      },
+      "properties": {
+        "id": "cafe-mandalika-coffee-shop-42",
+        "name": "Mandalika Coffee Shop",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pulau Sumatera, Tualang, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara",
+        "hours": "08.00-01.00",
+        "rating": 4.2,
+        "reviewsCount": 6,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Mandalika+Coffee+Shop/data=!4m7!3m6!1s0x3031611be282d151:0x95d2c59c05e522cd!8m2!3d3.3138702!4d99.1488647!16s%2Fg%2F11szfpds8c!19sChIJUdGC4hthMTARzSLlBZzF0pU?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1624397,
+          3.3220968
+        ]
+      },
+      "properties": {
+        "id": "cafe-curtina-coffee-43",
+        "name": "Curtina Coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Diponegoro, Rambung, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20613",
+        "hours": "11.00-23.00",
+        "rating": 4.8,
+        "reviewsCount": 5,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Curtina+Coffee/data=!4m7!3m6!1s0x30316187599b5931:0xe140fe7da9361f92!8m2!3d3.3220968!4d99.1624397!16s%2Fg%2F11t9w7j8z1!19sChIJMVmbWYdhMTARkh82qX3-QOE?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1532379,
+          3.3198221
+        ]
+      },
+      "properties": {
+        "id": "cafe-kopi-siantar-44",
+        "name": "Kopi Siantar",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Sisingamangaraja No.42, Bandar Sono, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "07.00-22.00",
+        "rating": 4,
+        "reviewsCount": 4,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kopi+Siantar/data=!4m7!3m6!1s0x303161a39858ab05:0xb3a7371a35a4147f!8m2!3d3.3198221!4d99.1532379!16s%2Fg%2F11cs9_v_nq!19sChIJBatYmKNhMTARfxSkNRo3p7M?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1322219,
+          3.3035446
+        ]
+      },
+      "properties": {
+        "id": "cafe-bintang-coffee-45",
+        "name": "Bintang Coffee",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Medan - Pematang Siantar No.2a, Lubuk Baru, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20621",
+        "hours": "00.00-06.00, 08.00-00.00",
+        "rating": 5,
+        "reviewsCount": 3,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Bintang+Coffee/data=!4m7!3m6!1s0x30316164fa6d79c7:0x8baba65db7b13507!8m2!3d3.3035446!4d99.1322219!16s%2Fg%2F11g8v3wh1x!19sChIJx3lt-mRhMTARBzWxt12mq4s?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1563181,
+          3.3312348
+        ]
+      },
+      "properties": {
+        "id": "cafe-hamur-coffee-shop-46",
+        "name": "Hamur Coffee Shop",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Kapten F Tandean No.226, Bandar Utama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "08.00-23.00",
+        "rating": 5,
+        "reviewsCount": 3,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Hamur+Coffee+Shop/data=!4m7!3m6!1s0x30316100485ecead:0xb9ad5e2259325977!8m2!3d3.3312348!4d99.1563181!16s%2Fg%2F11ms6xr4yz!19sChIJrc5eSABhMTARd1kyWSJerbk?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1703475,
+          3.3332824
+        ]
+      },
+      "properties": {
+        "id": "cafe-hub-coffee-tebing-tinggi-47",
+        "name": "Hub Coffee, Tebing Tinggi.",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Imam Bonjol No.27, Satria, Kec. Padang Hilir, Kota Tebing Tinggi, Sumatera Utara 20998",
+        "hours": "00.00-11.00, 13.00-00.00",
+        "rating": 5,
+        "reviewsCount": 3,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Hub+Coffee,+Tebing+Tinggi./data=!4m7!3m6!1s0x303161a41cd86811:0xae567ad6a5b947cd!8m2!3d3.3332824!4d99.1703475!16s%2Fg%2F11rndsyp2c!19sChIJEWjYHKRhMTARzUe5pdZ6Vq4?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1518703,
+          3.3233264
+        ]
+      },
+      "properties": {
+        "id": "cafe-kopi-asli-samosir-48",
+        "name": "Kopi Asli Samosir",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Jenderal Sudirman No.75, Durian, Kec. Tebing Tinggi, Kota Tebing Tinggi, Sumatera Utara 20611",
+        "hours": "11.00-23.00",
+        "rating": 3,
+        "reviewsCount": 2,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Kopi+Asli+Samosir/data=!4m7!3m6!1s0x303161a430244687:0x9b43959a8660ed72!8m2!3d3.3233264!4d99.1518703!16s%2Fg%2F1pzqc0cwc!19sChIJh0YkMKRhMTARcu1ghpqVQ5s?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.148988,
+          3.3163309
+        ]
+      },
+      "properties": {
+        "id": "cafe-ada-rasa-es-kekinian-49",
+        "name": "Ada Rasa ( es Kekinian )",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pulau Sumatera No.36a, Tualang, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "00.00-09.00, 10.00-00.00",
+        "rating": 5,
+        "reviewsCount": 1,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Ada+Rasa+(+es+Kekinian+)/data=!4m7!3m6!1s0x30316150c78e6e33:0xa76b607ae91453bb!8m2!3d3.3163309!4d99.148988!16s%2Fg%2F11sxvkd8xp!19sChIJM26Ox1BhMTARu1MU6Xpga6c?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1482199,
+          3.3297086
+        ]
+      },
+      "properties": {
+        "id": "cafe-tebing-tinggi-50",
+        "name": "Tebing tinggi",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Ketumbar No.2, Durian, Kec. Bajenis, Kota Tebing Tinggi, Sumatera Utara 20611",
+        "hours": null,
+        "rating": 5,
+        "reviewsCount": 1,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Tebing+tinggi/data=!4m7!3m6!1s0x303161006784a9d1:0x597160a3cc469a9a!8m2!3d3.3297086!4d99.1482199!16s%2Fg%2F11ysr504vr!19sChIJ0amEZwBhMTARmppGzKNgcVk?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1654599,
+          3.3275325
+        ]
+      },
+      "properties": {
+        "id": "cafe-vidi-coffee-51",
+        "name": "VIDI COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Perintis Kemerdekaan, Tebing Tinggi Lama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20616",
+        "hours": "09.00-01.00",
+        "rating": 5,
+        "reviewsCount": 1,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/VIDI+COFFEE/data=!4m7!3m6!1s0x303161004eb73efd:0xf5878269eea3917!8m2!3d3.3275325!4d99.1654599!16s%2Fg%2F11yntvhzl2!19sChIJ_T63TgBhMTARFznqniZ4WA8?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1576115,
+          3.3305437
+        ]
+      },
+      "properties": {
+        "id": "cafe-coffeine-coffee-52",
+        "name": "COFFEINE COFFEE",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Kapten F Tandean No.122, Bandar Utama, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera Utara 20613",
+        "hours": "08.00-23.00",
+        "rating": null,
+        "reviewsCount": 0,
+        "status": "review-needed",
+        "mapsUrl": "https://www.google.com/maps/place/COFFEINE+COFFEE/data=!4m7!3m6!1s0x30316124cc5a7a39:0x73f08927a73aa3f6!8m2!3d3.3305437!4d99.1576115!16s%2Fg%2F11rsrdyrpf!19sChIJOXpazCRhMTAR9qM6pyeJ8HM?authuser=0&hl=id&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1488039,
+          3.3130156
+        ]
+      },
+      "properties": {
+        "id": "cafe-coffee-blend-53",
+        "name": "Coffee blend",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Pulau Sumatera No.19, Tualang, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara 20631",
+        "hours": "Buka 24 jam",
+        "rating": 0,
+        "reviewsCount": 0,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/Coffee+blend/data=!4m7!3m6!1s0x3031610053c040a9:0x513fac64411f394a!8m2!3d3.3130156!4d99.1488039!16s%2Fg%2F11w4s9j_1b!19sChIJqUDAUwBhMTARSjkfQWSsP1E?authuser=0&rclk=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.1331631,
+          3.3053604
+        ]
+      },
+      "properties": {
+        "id": "cafe-fd-cafe-dimsum-coffee-54",
+        "name": "FD Cafe (Dimsum & Coffee)",
+        "category": "kafe",
+        "scope": "in-city",
+        "address": "Jl. Gatot Subroto No.km 4, Lubuk Baru, Kec. Padang Hulu, Kota Tebing Tinggi, Sumatera Utara",
+        "hours": null,
+        "rating": 0,
+        "reviewsCount": 0,
+        "status": "verified",
+        "mapsUrl": "https://www.google.com/maps/place/FD+Cafe+(Dimsum+%26+Coffee)/data=!4m7!3m6!1s0x303161007f736937:0xac1638f89f80a6ac!8m2!3d3.3053604!4d99.1331631!16s%2Fg%2F11vrypgsk7!19sChIJN2lzfwBhMTARrKaAn_g4Fqw?authuser=0&rclk=1"
+      }
+    }
+  ]
+}
